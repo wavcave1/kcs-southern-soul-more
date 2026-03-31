@@ -118,7 +118,7 @@ export default function App() {
                 Authentic comfort food rooted in tradition. Every dish seasoned from the heart and served straight from the skillet.
               </p>
               <div className="hero__btns">
-                <a href={PHONE_HREF} className="btn btn--red btn--lg">📞 Call to Order</a>
+                <a href={PHONE_HREF} className="btn btn--red btn--lg">Call to Order</a>
                 <button className="btn btn--outline btn--lg" onClick={() => navigate("Menu")}>View Menu →</button>
               </div>
               <div className="hero__address">
@@ -213,7 +213,7 @@ export default function App() {
             <div className="cta-banner__inner">
               <h2 className="cta-banner__title">Ready to Eat?</h2>
               <p className="cta-banner__sub">Call us to place your order — pickup available at 102 Depot Street, Columbia TN</p>
-              <a href={PHONE_HREF} className="btn btn--white btn--lg">📞 Call {PHONE_DISPLAY}</a>
+              <a href={PHONE_HREF} className="btn btn--white btn--lg">Call {PHONE_DISPLAY}</a>
             </div>
           </section>
         </main>
