@@ -33,9 +33,9 @@ const MENU = {
 };
 
 const TESTIMONIALS = [
-  { text: "Best soul food in Columbia, TN! The oxtail is out of this world. KC's never disappoints.", author: "Marcus T." },
-  { text: "KC's feels like eating at grandma's house. Pure love in every single bite. We drive 45 minutes just to come here.", author: "Latisha R." },
-  { text: "The mac & cheese alone is worth the drive. Absolutely incredible food and even better people.", author: "James W." },
+  { text: "Columbia is blessed to have this restaurant.  I went for the first time and it was amazing. I had baked chicken, cabbage, macaroni,  and cornbread and I didn't leave a crumb. The kool-aid was delicious as well. It was worth every penny!! Will definitely be back. ", author: "Kendra R." },
+  { text: "The food was amazing! Will definitely be back!", author: "Mackenzie H." },
+  { text: "EVERYTHING IS DELICIOUS...MY FAV...IS CHICKEN & DRESSING,BUT EVERYTHING IS GREAT", author: "Tira W." },
 ];
 
 export default function App() {
