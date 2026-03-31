@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 import LOGO_SRC from "./logoData";
 import "./App.css";
 
@@ -6,7 +6,6 @@ const PHONE = "9312235075";
 const PHONE_DISPLAY = "(931) 223-5075";
 const PHONE_HREF = `tel:+1${PHONE}`;
 const EMAIL = "kcssouthernsoulandmore@gmail.com";
-const ADDRESS = "102 Depot Street, Columbia, TN";
 
 const MENU = {
   Mains: [
