@@ -115,7 +115,7 @@ export default function App() {
                 <em>Cooked with Love</em>
               </h1>
               <p className="hero__sub">
-                Authentic comfort food rooted in tradition. Every dish seasoned from the heart and served straight from the skillet.
+                Authentic comfort food rooted in tradition. Every dish seasoned from the heart and served hot.
               </p>
               <div className="hero__btns">
                 <a href={PHONE_HREF} className="btn btn--red btn--lg">Call to Order</a>
@@ -161,10 +161,10 @@ export default function App() {
               <p className="eyebrow">Our Story</p>
               <h2 className="section-title">Cooking from the<br />Soul Since Day One</h2>
               <p className="body-text">
-                KC's Southern Soul & More was born from a deep love of authentic, hearty Southern cooking — the kind that warms you from the inside out. Every recipe is rooted in tradition, seasoned with care, and served with genuine hospitality.
+                KC's Southern Soul & More was born from a deep love of authentic, hearty Southern cooking. Every recipe is rooted in tradition, seasoned with care, and served with genuine hospitality.
               </p>
               <p className="body-text">
-                Whether you're grabbing lunch on Depot Street or feeding the whole family, we've got something that'll make you feel right at home. Good food, good people, and good vibes — every single time.
+                Whether you're grabbing lunch or feeding the whole family, we've got something that'll make you feel right at home. Good food, good people, and energy every single time.
               </p>
               <a href={PHONE_HREF} className="btn btn--red">📞 {PHONE_DISPLAY}</a>
             </div>
